@@ -77,8 +77,8 @@ main div form input {
 }
 
 main div form input:hover {
-  background-color: #fff;
-  color: #000000
+  background-color:pink;
+  color: teal
 }
 
 footer {
